@@ -1,0 +1,16 @@
+/home/ec2-user/HelloAws/bin/Debug/net5.0/HelloAws
+/home/ec2-user/HelloAws/bin/Debug/net5.0/HelloAws.deps.json
+/home/ec2-user/HelloAws/bin/Debug/net5.0/HelloAws.runtimeconfig.json
+/home/ec2-user/HelloAws/bin/Debug/net5.0/HelloAws.runtimeconfig.dev.json
+/home/ec2-user/HelloAws/bin/Debug/net5.0/HelloAws.dll
+/home/ec2-user/HelloAws/bin/Debug/net5.0/ref/HelloAws.dll
+/home/ec2-user/HelloAws/bin/Debug/net5.0/HelloAws.pdb
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.csprojAssemblyReference.cache
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.GeneratedMSBuildEditorConfig.editorconfig
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.AssemblyInfoInputs.cache
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.AssemblyInfo.cs
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.csproj.CoreCompileInputs.cache
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.dll
+/home/ec2-user/HelloAws/obj/Debug/net5.0/ref/HelloAws.dll
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.pdb
+/home/ec2-user/HelloAws/obj/Debug/net5.0/HelloAws.genruntimeconfig.cache
