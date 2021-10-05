@@ -7,6 +7,7 @@ namespace HelloAws
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Addded this line from GIT REPO browser");
         }
     }
 }
